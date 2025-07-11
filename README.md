@@ -40,7 +40,7 @@ weather_bot/
 ├── telegram_bot.py       # Main Telegram bot logic
 ├── weather_api.py        # Weather API call logic
 ├── db.py                 # PostgreSQL DB connection and insertion
-├── config.py             # Stores API keys and DB credentials
+├── config.py             # Stores API keys and DB credentials ***But Disabled for security purposes***
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
 ```
