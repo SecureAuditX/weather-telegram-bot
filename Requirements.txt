@@ -1,0 +1,10 @@
+Dependencies
+
+## LIBRARIES
+1. requests 
+2. python-telegram-bot ## For bot use from telegram
+3. psycopg2-binary  ## for PostgreSQL DB 
+
+## USE API/TOKEN
+1. Weather: from https://openweathermap.org.api
+2. Bot: from telegram username @StormAlertyBot
