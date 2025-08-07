@@ -1,3 +1,4 @@
+
 # DB setup and functions
 import psycopg2
 from Config import DB_NAME, DB_USER, DB_HOST, DB_PASSWORD, DB_PORT
@@ -55,4 +56,5 @@ def save_weather(city, temp, cond):
     cursor.execute(insert_into_table, (city, temp, cond))
     connection.commit()
     cursor.close()
+
     connection.close()

@@ -1,3 +1,4 @@
+
 Dependencies
 
 ## LIBRARIES
@@ -8,3 +9,4 @@ Dependencies
 ## USE API/TOKEN
 1. Weather: from https://openweathermap.org.api
 2. Bot: from telegram username @StormAlertyBot
+

@@ -1,3 +1,4 @@
+
 # Entry Point
 from Database import connect_db, init_db, save_weather
 
@@ -10,4 +11,5 @@ if connection:
 init_db()
 
 # Calling the save weather function
+
 save_weather()

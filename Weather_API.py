@@ -1,3 +1,4 @@
+
 # Weather Request logic
 import requests # for sending http request
 from Config import WEATHER_API_KEY

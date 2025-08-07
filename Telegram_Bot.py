@@ -1,3 +1,4 @@
+
 # Telegram Weather Logic
 from telegram.ext import ApplicationBuilder, MessageHandler, ContextTypes, filters
 from telegram import Update
@@ -37,4 +38,5 @@ def start_bot():
 
 # Entry point
 if __name__ == '__main__':
+
     start_bot()
