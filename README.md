@@ -7,8 +7,8 @@
 
 > A smart Telegram bot that provides real-time weather updates using the OpenWeatherMap API and stores weather queries in a PostgreSQL database for future insights and analytics.
 
+![bot photo](https://github.com/SecureAuditX/weather-telegram-bot/blob/b7d261bbe2d8761ed1233c1d7cd3157471649281/bot_photo.png)
 ---
-
 ## 📌 Features
 
 - ✅ Get real-time weather for any city by simply messaging the bot
